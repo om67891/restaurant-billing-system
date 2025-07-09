@@ -17,7 +17,7 @@ It lets you generate clean bills based on customer orders — either from the te
 ---
 
 ##  Project Structure
-
+```
 restaurant-billing-system/
 ├── backend/
 │ ├── billing.c # C billing logic
@@ -31,7 +31,7 @@ restaurant-billing-system/
 ├── README.md # This file :)
 └── .gitignore # Ignore compiled/output files
 
-
+```
 ---
 
 ##  How to Run
